@@ -1,4 +1,9 @@
 # learnmyself
+<div align="center">Visitor's Count 👀 
+ 
+![Visitor Count](https://profile-counter.glitch.me/{emreoztemiz-ai-ml}/count.svg) 
+
+</div>
 
 AverageOfNumbers.py
 
