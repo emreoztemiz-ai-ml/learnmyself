@@ -1,7 +1,7 @@
 # learnmyself
-<div align="center">Visitor's Count 👀 
+<div align="center">Dynamic Github Stats 👀 
  
-![Visitor Count](https://profile-counter.glitch.me/{emreoztemiz-ai-ml/learnmyself}/count.svg) 
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=emreoztemiz-ai-ml&show_icons=true&hide_border=true)
 
 </div>
 
